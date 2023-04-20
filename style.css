@@ -357,11 +357,18 @@
 	line-height: 30pt;
  }
 
- .item-1 h5{
-	font-size: 8pt;
+  .item-1 h5{
+	font-size: 12pt;
 	font-weight: 500;
 	color: rgb(225, 70, 135);
 	line-height: 30pt;
+ }
+
+ .item-1 h5:hover{
+	color: rgb(250, 168, 202);
+ }
+
+ .item-1 a{
 	text-decoration:none;
  }
 
